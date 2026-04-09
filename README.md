@@ -38,4 +38,4 @@ python run_pipeline.py --task all --input data/sample.csv
 uvicorn app.main:app --host 0.0.0.0 --port 8000
 streamlit run dashboard/app.py
 
-Venkatesh Kokkera · LinkedIn · Email
+Venkatesh Kokkera · 📧 vkokkeravk@gmail.com · 💼 LinkedIn:https://www.linkedin.com/in/venkatesh-ko/ · 📞 +1 (203) 479-2974 . 📍 Lowell, MA 
